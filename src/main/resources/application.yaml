@@ -24,7 +24,7 @@ spring:
 
 envio:
   email:
-    remetente: geraldoocn1996@gmail.com
+    remetente:
     nomeRemetente: 'Javanauta'
 
 server:
